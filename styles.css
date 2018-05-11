@@ -1,9 +1,17 @@
 .head {
 font-family: serif;
-text-align: center;
+text-align: left;
 padding: 0%;
 margin: 10px;
-border: 5 px;
-border-style: dotted;
-background-color: chocolate;
+border: 15 px;
+border-style: solid;
+background-color: white;
+}
+
+.body {
+color: blue;
+}
+
+.feet {
+text-indent: 50 px;
 }
